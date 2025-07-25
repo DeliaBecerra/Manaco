@@ -1,2 +1,2 @@
 # Delia Becerra Catari
-Manaco
+Proyecto Web de Manaco
